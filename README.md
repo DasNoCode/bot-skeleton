@@ -149,12 +149,6 @@ The bot automatically detects and loads commands via its internal command map sy
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-1. Fork this repo  
-2. Create your feature branch: `git checkout -b feature/my-feature`  
-3. Commit your changes: `git commit -m 'Add my feature'`  
-4. Push to the branch: `git push origin feature/my-feature`  
-5. Open a pull request
-
 ---
 
 ## 📄 License
